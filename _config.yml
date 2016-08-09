@@ -1,7 +1,7 @@
 name: DanielGarza
 favicon: null
-layout_spectrum: 0.52063311310485
-typography_spectrum: 0.07366216857917607
+layout_spectrum: 1
+typography_spectrum: 0.13877
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.12801268487237394
-  lightness: 0.9681146419607103
-  saturation: 0.042839756002649665
-  rhythmicContrast: 0.516868551960215
+    - '#ffffff'
+    - '#afd4ff'
+    - '#111514'
+    - '#474745'
+    - '#96a15d'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
